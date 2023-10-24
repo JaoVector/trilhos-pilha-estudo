@@ -1,0 +1,15 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\bin\Debug\net6.0\1062_Trilhos.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\bin\Debug\net6.0\1062_Trilhos.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\bin\Debug\net6.0\1062_Trilhos.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\bin\Debug\net6.0\1062_Trilhos.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\bin\Debug\net6.0\1062_Trilhos.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\1062_Trilhos.csproj.AssemblyReference.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\1062_Trilhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\1062_Trilhos.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\1062_Trilhos.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\1062_Trilhos.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\1062_Trilhos.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\refint\1062_Trilhos.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\1062_Trilhos.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\1062_Trilhos.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\1062_Trilhos\obj\Debug\net6.0\ref\1062_Trilhos.dll
